@@ -20,7 +20,7 @@ AF_DCMotor motor4(4, MOTOR34_1KHZ);
 Servo myservo;   
 
 boolean goesForward=false;
-//int distance = 100;
+int distance = 100;
 //int speedSet = 0;
 
 void setup() {

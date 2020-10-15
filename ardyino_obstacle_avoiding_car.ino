@@ -21,7 +21,7 @@ Servo myservo;
 
 boolean goesForward=false;
 int distance = 100;
-//int speedSet = 0;
+int speedSet = 0;
 
 void setup() {
 
